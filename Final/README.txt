@@ -1,6 +1,8 @@
 ---------------------------------------------------------------------------
 CREATED BY: Joshua Geiter
 ---------------------------------------------------------------------------
+PAGE NAME: My Portfolio
+---------------------------------------------------------------------------
 DESCRIPTION OF WHAT IS ON EACH PAGE
 
 About: Contains a photo of me and a description of who I am and what I do.
